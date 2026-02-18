@@ -1,8 +1,7 @@
-title: Zahra
+title: Zahra Golpayegani
 description: Machine Learning Researcher
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
-# Navigation (optional)
 header_pages:
   - index.md
   - about.md
