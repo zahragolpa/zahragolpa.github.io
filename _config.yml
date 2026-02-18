@@ -1,3 +1,23 @@
+title: Zahra Golpayegani
+email: your.email@example.com
+description: >- # this means to ignore newlines until next YAML item
+  Personal website of Zahra Golpayegani
+baseurl: "" # leave empty unless hosted in a subfolder
+url: "https://zahragolpa.github.io"
+
 theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+
+# Navigation links
+nav_links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Projects
+    url: /projects
+  - title: Blog
+    url: /blog
+  - title: Beyond
+    url: /beyond
+  - title: Contact
+    url: /contact
