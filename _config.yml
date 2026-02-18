@@ -3,11 +3,11 @@ title: Zahra Golpayegani
 description: Machine Learning Researcher
 
 
-header_pages:
-  - index.md
-  - about.md
-  - resume.md
-  - projects.md
-  - blog.md
-  - beyond.md
-  - contact.md
+# header_pages:
+#   - index.md
+#   - about.md
+#   - resume.md
+#   - projects.md
+#   - blog.md
+#   - beyond.md
+#   - contact.md
