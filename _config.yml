@@ -1,13 +1,3 @@
-theme: jekyll-theme-cayman
-title: Zahra Golpayegani
-description: Machine Learning Researcher
-
-
-# header_pages:
-#   - index.md
-#   - about.md
-#   - resume.md
-#   - projects.md
-#   - blog.md
-#   - beyond.md
-#   - contact.md
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
