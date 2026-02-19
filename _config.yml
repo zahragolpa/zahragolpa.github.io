@@ -5,19 +5,16 @@ description: >- # this means to ignore newlines until next YAML item
 baseurl: "" # leave empty unless hosted in a subfolder
 url: "https://zahragolpa.github.io"
 
-theme: jekyll-theme-minimalistic
+plugins:
+  - jekyll-remote-theme
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
-# Navigation links
-nav_links:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
-  - title: Projects
-    url: /projects
-  - title: Blog
-    url: /blog
-  - title: Beyond
-    url: /beyond
-  - title: Contact
-    url: /contact
+
+navigation:
+  - name: Readme
+    link: ./index.html
+    sublist:
+      - name: Image
+        link: ./index.html#small-image
+  - name: Another Page
+    link: ./another-page.html
