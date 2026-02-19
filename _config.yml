@@ -1,5 +1,5 @@
 title: Zahra Golpayegani
-email: your.email@example.com
+email: g&#46;golpa75&#64;gmail&#46;com
 description: >- # this means to ignore newlines until next YAML item
   Personal website of Zahra Golpayegani
 baseurl: "" # leave empty unless hosted in a subfolder
@@ -11,10 +11,10 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 
 navigation:
-  - name: Readme
-    link: ./index.html
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
+  - name: Resume
+    link: ./resume.md
+    # sublist:
+    #   - name: Image
+    #     link: ./index.html#small-image
+  # - name: Projects
+  #   link: ./projects.md

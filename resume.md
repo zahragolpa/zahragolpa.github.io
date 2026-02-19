@@ -2,4 +2,5 @@
 layout: page
 title: Resume
 ---
-Resume
+
+<meta http-equiv="Refresh" content="0; url=assets/resume.pdf" />
