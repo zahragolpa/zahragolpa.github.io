@@ -14,4 +14,4 @@ I hold a Bachelor of Science in Computer Science from Amirkabir University of Te
 
 
 
-Check out my [CV](/resume) or [contact me](g&#46;golpa75&#64;gmail&#46;com).
+Check out my <a href="/resume">CV</a> or <a href="mailto:g&#46;golpa75&#64;gmail&#46;com">contact me</a>.
