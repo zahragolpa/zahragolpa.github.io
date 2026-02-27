@@ -13,6 +13,8 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 navigation:
   - name: Resume
     link: ./resume.md
+  - name: Beyond Work
+    link: ./beyond.md
     # sublist:
     #   - name: Image
     #     link: ./index.html#small-image
