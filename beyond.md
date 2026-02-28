@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Beyond Work
+permalink: /beyond/
 ---
 # Beyond Work
 
