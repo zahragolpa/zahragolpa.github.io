@@ -14,7 +14,7 @@ navigation:
   - name: Resume
     link: ./resume
   - name: Beyond Work
-    link: ./beyond
+    link: ./beyond-test
     # sublist:
     #   - name: Image
     #     link: ./index.html#small-image
