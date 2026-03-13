@@ -70,6 +70,12 @@ Once I could draw a decent heart, I moved on to the Rosetta pattern. Here are so
   <em>Second try — getting the hang of it. Poured this one for a friend.</em>
 </p>
 
+<p align="center">
+  <img src="assets/latte/rosetta-final.png" alt="Successful Rosetta attempt" width="60%">
+  <br>
+  <em>After some practice, here's what I made!</em>
+</p>
+
 I will update this page with more beautiful latte art trials.
 
 **Note to self:** Chase what excites you, even if you fail — it’s worth every attempt!
